@@ -14,9 +14,12 @@ a {
   border-radius: .3em;
   color: #fff;
   font-family: Georgia, serif;
-  margin: .3em;
   padding: .2em .5em .3em;
   text-decoration: none;
+}
+
+a:hover {
+  background-color: #cc1465;
 }
 
 .nav {
@@ -29,12 +32,49 @@ h1 {
   color: #cc1465;
   font-family: 'Sigmar One', cursive;
   font-size: 3rem;
+  margin: 0;
 }
 
 li {
   display: inline-block;
+  font-size: 1.125rem;
+}
+
+h2 {
+  color: #cc1465;
+  font-family: 'Sigmar One', cursive;
+  font-size: 1.875rem;
+  text-align: left;
+}
+
+p {
+  color: #2f2d13;
+  font-size: 1.125rem;
+  font-family: Georgia, serif;
+  text-align: left;
+}
+
+div {
+  background-color: #fff;
+  padding:.75em;
+}
+
+img {
+  width: 100%;
+}
+
+footer {
+  padding: .75em;
+}
+
+header {
+  padding: .75em;
 }
 
 body {
   margin: 0;
+}
+
+.current {
+  background-color: #b20953;
 }
