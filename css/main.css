@@ -46,11 +46,12 @@ h2 {
   font-family: "Sigmar One", cursive;
   font-size: 1.875rem;
   text-align: left;
+  margin: .5em 0;
 }
 
 p {
   color: #2f2d13;
-  font-size: 1.125rem;
+  font-size: .75rem;
   font-family: Georgia, serif;
   text-align: left;
 }
@@ -63,11 +64,6 @@ div {
 img {
   display: block;
   width: 100%;
-}
-
-footer {
-  padding: .75em;
-  margin: .3em;
 }
 
 header {
