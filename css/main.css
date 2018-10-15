@@ -51,9 +51,10 @@ h2 {
 
 p {
   color: #2f2d13;
-  font-size: .75rem;
+  font-size: 1.125rem;
   font-family: Georgia, serif;
   text-align: left;
+  margin-bottom: 0;
 }
 
 div {
@@ -72,6 +73,7 @@ header {
 
 body {
   margin: 0;
+  padding-bottom: 0;
 }
 
 .current {
