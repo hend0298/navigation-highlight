@@ -1,0 +1,40 @@
+html {
+  box-sizing: border-box;
+  background-color: #ffe500;
+  text-align: center;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+a {
+  background-color: #b2a212;
+  border-radius: .3em;
+  color: #fff;
+  font-family: Georgia, serif;
+  margin: .3em;
+  padding: .2em .5em .3em;
+  text-decoration: none;
+}
+
+.nav {
+  margin: 0;
+  list-style: none;
+  padding: 0;
+}
+
+h1 {
+  color: #cc1465;
+  font-family: 'Sigmar One', cursive;
+  font-size: 3rem;
+}
+
+li {
+  display: inline-block;
+}
+
+body {
+  margin: 0;
+}
