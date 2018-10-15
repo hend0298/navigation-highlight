@@ -30,7 +30,7 @@ a:hover {
 
 h1 {
   color: #cc1465;
-  font-family: 'Sigmar One', cursive;
+  font-family: "Sigmar One", cursive;
   font-size: 3rem;
   margin: 0;
 }
@@ -56,10 +56,11 @@ p {
 
 div {
   background-color: #fff;
-  padding:.75em;
+  padding: .75em;
 }
 
 img {
+  display: block;
   width: 100%;
 }
 
