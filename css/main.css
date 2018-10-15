@@ -38,6 +38,7 @@ h1 {
 li {
   display: inline-block;
   font-size: 1.125rem;
+  margin: .3em;
 }
 
 h2 {
