@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   background-color: #ffe500;
+  font-family: Georgia, serif;
   text-align: center;
   line-height: 1.5;
 }
@@ -13,7 +14,7 @@ a {
   background-color: #b2a212;
   border-radius: .3em;
   color: #fff;
-  font-family: Georgia, serif;
+  display: inline-block;
   padding: .2em .5em .3em;
   text-decoration: none;
 }
@@ -29,7 +30,7 @@ a:hover {
 }
 
 h1 {
-  color: #cc1465;
+  color: #b20953;
   font-family: "Sigmar One", cursive;
   font-size: 3rem;
   margin: 0;
@@ -38,11 +39,10 @@ h1 {
 li {
   display: inline-block;
   font-size: 1.125rem;
-  margin: .3em;
 }
 
 h2 {
-  color: #cc1465;
+  color: #b20953;
   font-family: "Sigmar One", cursive;
   font-size: 1.875rem;
   text-align: left;
@@ -67,11 +67,11 @@ img {
 
 footer {
   padding: .75em;
-  text-align: center;
+  margin: .3em;
 }
 
 header {
-  padding: .75em;
+  padding-bottom: .3em;
 }
 
 body {
