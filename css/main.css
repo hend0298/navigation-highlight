@@ -51,7 +51,7 @@ h2 {
 
 p {
   color: #2f2d13;
-  font-size: 1.125rem;
+  font-size: 1rem;
   font-family: Georgia, serif;
   text-align: left;
   margin-bottom: 0;
@@ -60,7 +60,7 @@ p {
 div {
   background-color: #fff;
   padding: .75em;
-  padding-bottom: .3em;
+  padding-bottom: .75em;
 }
 
 img {
@@ -83,5 +83,5 @@ body {
 
 .footer {
   text-align: center;
-  margin: .5em;
+  margin: .75em;
 }
